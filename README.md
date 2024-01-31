@@ -1,2 +1,1 @@
 # simpleTorPrivacyPolicy
-# simpleTorPrivacyPolicy
